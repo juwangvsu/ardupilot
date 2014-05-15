@@ -1,5 +1,5 @@
 # ArduPilot Project
-
+This is a local copy.
 You can find lots of development information at the [ArduPilot development site](http://dev.ardupilot.com)
 
 ## Getting the source
