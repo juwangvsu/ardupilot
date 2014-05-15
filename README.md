@@ -1,5 +1,5 @@
 # ArduPilot Project
-This is a local copy. Modified online.
+This is a local copy. Modified online. With SSH Checkin.
 You can find lots of development information at the [ArduPilot development site](http://dev.ardupilot.com)
 
 ## Getting the source
